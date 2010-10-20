@@ -465,6 +465,9 @@ tutorial_5_msg_4_displayed
 tutorial_5_msg_5_displayed
 tutorial_5_msg_6_displayed
 tutorial_5_finished
+camera height_user
+camera_height_base
+camera_height_user
 g_multiplayer_poll_running
 g_multiplayer_game_type
 g_multiplayer_ready_for_spawning_agent
@@ -1091,6 +1094,8 @@ qst_scout_waypoints_wp_2_visited
 qst_scout_waypoints_wp_3_visited
 qst_train_peasants_against_bandits_num_hours_trained
 g_last_report_control_day
+$_strategist_zoom
+$_strategist_angle
 $strategist_scene_min
 $strategist_scene_max
 $g_presentation_marshall_selection_max_renown_3

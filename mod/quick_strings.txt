@@ -61,7 +61,7 @@ qstr_{!}{reg3?+:}{reg0} {!}{reg3?+:}{reg0}
 qstr_TOTAL_SCORE:_{reg0} TOTAL_SCORE:_{reg0}
 qstr_{!}DEBUG____Adding_{ {!}DEBUG_--_Adding_{reg3}_items_to_{s3}
 qstr_None None
-qstr_X:_{reg1}Y:_{reg2} X:_{reg1},Y:_{reg2}
+qstr_X:_{reg1}Y:_{reg2}_/ X:_{reg1},Y:_{reg2}_//_ZOOM:_{reg3}_//_ANGLE:_{reg4}
 qstr_{!}DEBUG_:_Completed {!}DEBUG_:_Completed_faction_troop_assignments,_cheat_mode:_{reg3}
 qstr_{!}ERROR:_Not_enough {!}ERROR:_Not_enough_banners_for_heroes!
 qstr_{!}DEBUG____initial_ {!}DEBUG_--_initial_war/peace_check_begins
